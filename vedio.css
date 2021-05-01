@@ -1,0 +1,101 @@
+.header{
+    background: #3498db;
+}
+.logo-menu h1{
+    color: #fff
+}
+
+.menu-right{
+
+}
+.menu-right ul{
+    text-align: ;
+    margin-bottom: 0;
+}
+.menu-right ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.menu-right ul li a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 33px;
+    line-height: 65px;
+    border-right: 1px solid #ddd;
+    transition: .5s;
+}
+.menu-right ul li a:hover{
+    background: #2980b9;
+}
+.banner{
+    background-image: url(..//day22/imge1/photo-1520607162513-77705c0f0d4a.jfif);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner h2{
+    color: blanchedalmond;
+    padding: 0 20px;
+    background: rgba(255, 0, 0, .22);
+    display: inline-block;
+    border-radius: 4px;
+}
+.banner h1{
+    background: rgba(60, 179, 113, .32);
+    border-radius: 3px;
+    color: #fff;
+    display: block;
+    max-width: 400px;
+    margin: auto;
+    font-size: 30px;
+}
+.about{
+    background: #ddd;
+}
+.service{
+    background: #f9f9f9;
+}
+.service span i{
+    background: #4cd137;
+    display: inline-block;
+    /* padding: 25px; */
+    border-radius: 20px 0 20px 0;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    color: gold;
+    margin-top: 22px;
+
+    font-size: 25px;
+}
+img{
+    max-width: 100%;
+}
+.notice ul{
+    list-style: none;
+    padding-left: 0;
+}
+.notice ul li{
+   background: #f7f7f7;
+   margin-bottom: 10px;
+   padding: 10px;
+   border-radius: 5px;
+   font-size: 18px;
+}
+.product p{
+    font-size: 18px;
+}
+.footer{
+    background: #271d1d;
+}
+.footer p{
+    color: #fff;
+    margin-bottom: 0;
+}
+.footer a{
+    display: inline-block;
+    margin-left: 15px;
+    color: #fff;
+    text-decoration: none;
+}
